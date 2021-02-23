@@ -1,6 +1,8 @@
 ### Hi there 👋
-This is a Anthony Lee's Github page !
-Welcome And Thank you visiting here!!!!
+This is Anthony Lee's Github page !
+Welcome And Thank you for visiting my!!!!
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 
 ### How to reach me
 <a href="mailto:ahjlee74@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
